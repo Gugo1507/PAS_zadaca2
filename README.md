@@ -47,6 +47,7 @@ Potrebno je sada By topic dodati sljedeće stvari u rviz -u:
 - /explored_nodes
 - /clicked_point
 - /planned_path
+
 Sljedeće je potrebno unutar Rviz -a pomoću "Publish Point" opcije odabrati na mapi početnu i ciljnu točku nakon čega počinje pretraživanje prostora te vizualizacija.
 ---
 
